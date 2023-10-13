@@ -17,7 +17,7 @@ To run the program, follow these steps:
 3. Download and open **bokehEA1.ipynb** using Jupyter or via VSCode (with Jupyter extension installed).
 4. Download **Water_pond_tanks_2021.csv**[ref](https://www.kaggle.com/datasets/balabaskar/water-quality-data-india/) and change `csv_file` variable value in the code to the path where you downloaded the csv file.
 5. Run bokehEA1.ipynb through the IDE.
-6. You should find an output html file generated with a visualization in your current directory or you can view the visualization within the Jupyter file.
+6. You should find an output html file generated with a visualization in your current directory or a webpage may pop-up with the visualization.
 
 ## 3. What purpose does your program serve?
 
